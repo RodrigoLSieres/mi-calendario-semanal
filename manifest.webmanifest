@@ -3,6 +3,7 @@
   "short_name": "Jornada",
   "description": "Control personal de la jornada laboral",
   "lang": "es",
+  "id": "/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
